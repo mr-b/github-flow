@@ -1,2 +1,3 @@
 # github-flow
-Testing Repo
+Testing Repo 
+Merging Branches
